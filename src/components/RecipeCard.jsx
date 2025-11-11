@@ -14,7 +14,7 @@ const RecipeCard = () => {
             </p>
 
             <div className="w-full p-4 lg:p-8 rounded-lg bg-custom-rose-50">
-                <h3 className="text-2xl lg:text-3xl font-outfit font-semibold text-custom-rose-800 my-2 lg:my-8">Preparation time</h3>
+                <h2 className="text-2xl lg:text-3xl font-outfit font-semibold text-custom-rose-800 my-2 lg:my-8">Preparation time</h2>
 
                 <ul className="list-disc ml-6">
                     <li className="text-lg font-outfit text-custom-stone-800 mb-2"><span className="font-bold">Total:</span> Approximately 10 minutes</li>
